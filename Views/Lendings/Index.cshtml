@@ -1,0 +1,58 @@
+﻿@model IEnumerable<RagilHadiworoApp.Models.Lending>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IDLending)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer.AccountNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDCustomer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Balance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Plafond)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDLending)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.AccountNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDCustomer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Balance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Plafond)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IDLending">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IDLending">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IDLending">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

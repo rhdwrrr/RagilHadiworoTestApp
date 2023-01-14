@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RagilHadiworoApp
+build_property.RootNamespace = RagilHadiworoApp
+build_property.ProjectDir = c:\Users\21010266\source\repos\RagilHadiworoApp\RagilHadiworoApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = c:\Users\21010266\source\repos\RagilHadiworoApp\RagilHadiworoApp
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Agunans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWd1bmFuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Agunans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWd1bmFuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Agunans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWd1bmFuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Agunans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWd1bmFuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Agunans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWd1bmFuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Fundings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuZGluZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Fundings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuZGluZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Fundings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuZGluZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Fundings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuZGluZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Fundings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuZGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Lendings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZGluZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Lendings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZGluZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Lendings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZGluZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Lendings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZGluZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Lendings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Result/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/21010266/source/repos/RagilHadiworoApp/RagilHadiworoApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bu1imbgis5

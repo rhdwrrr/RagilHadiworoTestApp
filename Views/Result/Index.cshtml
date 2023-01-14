@@ -1,0 +1,57 @@
+﻿@model List<RagilHadiworoApp.DTO.ResultDTO>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Result</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID Customer
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                Lending Balance
+            </th>
+            <th>
+                Funding Balance
+            </th>
+            <th>
+                Agunan ID
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IDCustomer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LendingBalance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FundingBalance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AgunanID)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
